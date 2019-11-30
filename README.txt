@@ -1,5 +1,4 @@
 Ayca Begum Tascioglu
-21600907
 
 To run the code:
 
